@@ -1,4 +1,4 @@
 welcome:
   name: Canberk Erkmen
   environment : PROD
-  message: Welcome to Spring cloud config server prod environment
+  message: Welcome to Spring cloud config server prod
