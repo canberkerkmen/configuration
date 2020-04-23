@@ -1,5 +1,4 @@
-welcome:
+parameters:
   name: Canberk Erkmen
   environment : DEVELOPMENT
-  message: Welcome to Spring cloud spring rest, environment developmenty
-
+  message: Welcome to Spring cloud spring rest, environment development
