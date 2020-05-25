@@ -4,5 +4,6 @@ parameters:
   message: Welcome to Spring cloud config server, it is PROD!
 
 keycloak:
+  tokenEndpoint: http://canberke:8040/auth/realms/erkmen/protocol/openid-connect/token
   clientId: token-service
   clientSecret: 945eb02e-a974-47f8-b5e1-4cd0791c48cf
