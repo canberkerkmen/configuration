@@ -3,6 +3,6 @@ parameters:
   environment : QA
   message: Welcome to Spring cloud config server, it is QA!
 
-keycloak-server:
-  clientId: clientIdFromQA
-  clientSecret: clientSecretFromQA
+keycloak:
+  clientId: token-service
+  clientSecret: 945eb02e-a974-47f8-b5e1-4cd0791c48cf

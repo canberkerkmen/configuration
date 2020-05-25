@@ -3,6 +3,6 @@ parameters:
   environment : PROD
   message: Welcome to Spring cloud config server, it is PROD!
 
-keycloak-server:
-  clientId: clientIdFromPROD
-  clientSecret: clientSecretFromPROD
+keycloak:
+  clientId: token-service
+  clientSecret: 945eb02e-a974-47f8-b5e1-4cd0791c48cf
