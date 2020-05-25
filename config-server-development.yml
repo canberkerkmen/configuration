@@ -1,4 +1,0 @@
-welcome:
-  name: Canberk Erkmen
-  environment : DEVELOPMENT
-  message: Welcome to Spring cloud config server

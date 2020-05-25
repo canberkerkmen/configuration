@@ -1,0 +1,8 @@
+parameters:
+  name: Canberk Erkmen
+  environment : QA
+  message: Welcome to Spring cloud config server, it is QA!
+
+keycloak-server:
+  clientId: clientIdFromQA
+  clientSecret: clientSecretFromQA

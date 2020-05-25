@@ -2,3 +2,7 @@ parameters:
   name: Canberk Erkmen
   environment : PROD
   message: Welcome to Spring cloud config server, it is PROD!
+
+keycloak-server:
+  clientId: clientIdFromPROD
+  clientSecret: clientSecretFromPROD
